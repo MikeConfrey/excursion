@@ -10,11 +10,26 @@ body {
   font-weight: normal;
   color: white;
   font-size: 50px;
-
 }
 
-#header p {
+#dllink a {
   font-size: 16px;
   color: aquamarine;
+}
 
+#camping h1 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#camping p {
+  font-size: 21px;
+  color: gray;
+}
+
+#copyrt p {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
