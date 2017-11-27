@@ -1,23 +1,25 @@
+/* Mike Confrey 11-27-2017 */
 
-
+/* set attributes for entire page */
 body {
   font-family: verdana;
   background-color: black;
   text-align: center;
 }
 
+/* set attributes for header ID */
 #header h1 {
   font-weight: normal;
   color: white;
   font-size: 50px;
 }
 
-#dllink a {
+#dllink {
   font-size: 16px;
   color: aquamarine;
 }
 
-#camping h1 {
+h2 {
   font-weight: 300;
   font-size: 42px;
   color: white;
